@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>協同產品設計實習第1週任務</title><link href="./brython-2d-drawing.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./brython-2d-drawing.html</id><summary type="html">&lt;p&gt;網際協同設計資料整合, 網際 2D 程式繪圖回顧&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>協同產品設計實習第1週任務</title><link href="./brython-2d-drawing.html" rel="alternate"></link><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./brython-2d-drawing.html</id><summary type="html">&lt;p&gt;網際協同設計資料整合, 網際 2D 程式繪圖回顧&lt;/p&gt;
 
 
 &lt;h2&gt;網際協同設計資料整合&lt;/h2&gt;
@@ -424,7 +424,7 @@ if pos == 1:
 else:
     bdc = solve(-d2**2+d3**2+bd**2-2*d3*bd*cos(bdc), bdc)[1]
 print(t3)
-&lt;/pre&gt;</summary><category term="brython"></category><category term="w1"></category></entry><entry><title>Fossil SCM 簡介</title><link href="./intro-fossil-scm.html" rel="alternate"></link><published>2017-02-17T11:00:00+08:00</published><updated>2017-02-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-17:./intro-fossil-scm.html</id><summary type="html">&lt;p&gt;Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/wikitheory.wiki"&gt;Wiki&lt;/a&gt; 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/bugtheory.wiki"&gt;Bug Tracking&lt;/a&gt; 與 &lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/event.wiki"&gt;Technote&lt;/a&gt; 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程, 在協同產品設計實習課程中, 我們除了使用 git、github 與 bitbucket 之外, 將要在區域網路與系上主幹中, 配置每班兩台的 Fossil SCM 實習主機.&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="brython"></category><category term="w1"></category></entry><entry><title>Fossil SCM 簡介</title><link href="./intro-fossil-scm.html" rel="alternate"></link><updated>2017-02-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-17:./intro-fossil-scm.html</id><summary type="html">&lt;p&gt;Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/wikitheory.wiki"&gt;Wiki&lt;/a&gt; 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/bugtheory.wiki"&gt;Bug Tracking&lt;/a&gt; 與 &lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/event.wiki"&gt;Technote&lt;/a&gt; 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程, 在協同產品設計實習課程中, 我們除了使用 git、github 與 bitbucket 之外, 將要在區域網路與系上主幹中, 配置每班兩台的 Fossil SCM 實習主機.&lt;/p&gt;
 
 
 &lt;h2&gt;Fossil SCM&lt;/h2&gt;
@@ -578,7 +578,7 @@ $ fossil close
 &lt;/ol&gt;
 &lt;p&gt;Fossil (4 MB) 只需要 zlib 與 stunnel (4MB), 就可以充分使用, 但是 git 則需要許多程式庫與套件才能執行 (200 MB)&lt;/p&gt;
 &lt;h2&gt;參考資料&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://www.fredshack.com/docs/fossil.html"&gt;http://www.fredshack.com/docs/fossil.html&lt;/a&gt;&lt;/p&gt;</summary><category term="fossil-scm"></category><category term="w2"></category></entry><entry><title>V-rep 簡介</title><link href="./vrep-introduction.html" rel="alternate"></link><published>2017-02-09T11:00:00+08:00</published><updated>2017-02-09T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-09:./vrep-introduction.html</id><summary type="html">&lt;p&gt;V-rep (Virtual robot experimentation platform)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.fredshack.com/docs/fossil.html"&gt;http://www.fredshack.com/docs/fossil.html&lt;/a&gt;&lt;/p&gt;</summary><category term="fossil-scm"></category><category term="w2"></category></entry><entry><title>V-rep 簡介</title><link href="./vrep-introduction.html" rel="alternate"></link><updated>2017-02-09T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-09:./vrep-introduction.html</id><summary type="html">&lt;p&gt;V-rep (Virtual robot experimentation platform)&lt;/p&gt;
 
 
 &lt;h2&gt;V-rep Overview&lt;/h2&gt;
@@ -1164,7 +1164,7 @@ end
 &lt;p&gt;Extra contributions:&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.coppeliarobotics.com/contributions/"&gt;http://www.coppeliarobotics.com/contributions/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;V-rep Forum&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://www.forum.coppeliarobotics.com/"&gt;http://www.forum.coppeliarobotics.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="v-rep"></category><category term="w2"></category></entry><entry><title>網際 Brython 程式執行環境</title><link href="./brython-editor.html" rel="alternate"></link><published>2017-02-07T11:00:00+08:00</published><updated>2017-02-07T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-07:./brython-editor.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.forum.coppeliarobotics.com/"&gt;http://www.forum.coppeliarobotics.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="v-rep"></category><category term="w2"></category></entry><entry><title>網際 Brython 程式執行環境</title><link href="./brython-editor.html" rel="alternate"></link><updated>2017-02-07T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-07:./brython-editor.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
 
 
 &lt;!-- 導入 FileSaver 與 filereader --&gt;
@@ -1487,7 +1487,7 @@ def get_ver_and_kw(e):
 document["get_ver_and_kw"].bind("click", get_ver_and_kw)
 &lt;/script&gt;
 
-&lt;p&gt;&lt;button id="get"&gt;for1.py&lt;/button&gt;&lt;button id="get_temp1"&gt;temp1.py&lt;/button&gt;&lt;button id="get_ver_and_kw"&gt;ver_and_kw.py&lt;/button&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w1"></category></entry><entry><title>2017Spring 協同產品設計實習</title><link href="./2017spring-cd.html" rel="alternate"></link><published>2017-01-08T11:00:00+08:00</published><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./2017spring-cd.html</id><summary type="html">&lt;p&gt;協同產品設計實習在銜接計算機程式、電腦輔助設計實習課程, 讓學員以分組協同的方式進行產品設計實習.&lt;/p&gt;
+&lt;p&gt;&lt;button id="get"&gt;for1.py&lt;/button&gt;&lt;button id="get_temp1"&gt;temp1.py&lt;/button&gt;&lt;button id="get_ver_and_kw"&gt;ver_and_kw.py&lt;/button&gt;&lt;/p&gt;</summary><category term="brython"></category><category term="w1"></category></entry><entry><title>2017Spring 協同產品設計實習</title><link href="./2017spring-cd.html" rel="alternate"></link><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./2017spring-cd.html</id><summary type="html">&lt;p&gt;協同產品設計實習在銜接計算機程式、電腦輔助設計實習課程, 讓學員以分組協同的方式進行產品設計實習.&lt;/p&gt;
 
 
 &lt;h2&gt;歷年協同產品設計實習課程&lt;/h2&gt;
