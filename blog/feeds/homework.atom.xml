@@ -1,3 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/homework.atom.xml" rel="self"></link><id>./</id><updated>2017-02-23T11:00:00+08:00</updated><entry><title>第一周</title><link href="./W1.html" rel="alternate"></link><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-02-23:./W1.html</id><summary type="html">&lt;p&gt;第一周&lt;/p&gt;
-</summary><category term="syllabus"></category><category term="w1"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/homework.atom.xml" rel="self"></link><id>./</id><updated>2017-03-02T11:00:00+08:00</updated><entry><title>第二周</title><link href="./W2.html" rel="alternate"></link><updated>2017-03-02T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-02:./W2.html</id><summary type="html">&lt;p&gt;第二周&lt;/p&gt;
+
+
+&lt;h2&gt;solvepace零件繪製&lt;/h2&gt;
+&lt;h3&gt;30mmbar&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/206412342" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/206412342"&gt;Bar(30mm)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;50mmbar&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/206419911" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/206419911"&gt;Bar(50mm)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;60mmbar&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/206420107" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/206420107"&gt;Bar(60mm)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;繪製連桿位置&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/206420191" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/206420191"&gt;Bar(路徑)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;多連桿組立&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/206422841" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/206422841"&gt;Bar(組立)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h3&gt;雖然上學期就開始使用solvespace,但還是有許多功能是我還沒學過的,這次上課學到chord tolerance是調整圓的平滑度&lt;/h3&gt;</summary><category term="w2"></category></entry><entry><title>第一周</title><link href="./W1.html" rel="alternate"></link><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-02-23:./W1.html</id><summary type="html">&lt;p&gt;第一周&lt;/p&gt;
+</summary><category term="w1"></category></entry></feed>

@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -39,7 +39,7 @@
 <v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
+<v t="yen.20170120110024.11" a="E"><vh>各式內容引用範例</vh>
 <v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -56,6 +56,7 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+<v t="leo.20170306203138.1"><vh>@edit 20170302.md</vh></v>
 <v t="leo.20170304182339.1"><vh>@edit 20170223.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -413,6 +414,8 @@ make.start()
 <t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
 
 ### 虎科大機械設計工程系
+
+### 40423101 曾宜萱
 
 &lt;small&gt;
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
