@@ -73,12 +73,18 @@
 <v t="leo.20170308204628.9"><vh>多連桿組立(solvespace)</vh></v>
 </v>
 </v>
+<v t="leo.20170309101740.1" a="E"><vh>w3</vh>
+<v t="leo.20170309101740.2" a="E"><vh>w3</vh>
+<v t="leo.20170309101740.3"><vh>w3</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+<v t="leo.20170309101354.1"><vh>@edit 20170309.md</vh></v>
 <v t="leo.20170306203138.1"><vh>@edit 20170302.md</vh></v>
 <v t="leo.20170304182339.1"><vh>@edit 20170223.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
@@ -221,6 +227,21 @@
 						
 </t>
 <t tx="leo.20170308205518.2">#week two</t>
+<t tx="leo.20170309101740.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170309101740.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170309101740.3">#week three</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
