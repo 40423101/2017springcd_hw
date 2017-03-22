@@ -93,12 +93,33 @@
 <v t="leo.20170322204842.2"><vh>將多連桿匯入Vrep(onshape)</vh></v>
 </v>
 </v>
+<v t="leo.20170322224218.1" a="E"><vh>w4</vh>
+<v t="leo.20170322224218.2" a="E"><vh>w4</vh>
+<v t="leo.20170322224218.3"><vh>w4</vh></v>
+</v>
+<v t="leo.20170322224218.4" a="E"><vh>1</vh>
+<v t="leo.20170322224218.5"><vh>1</vh></v>
+</v>
+<v t="leo.20170322224218.6" a="E"><vh>2</vh>
+<v t="leo.20170322224218.7"><vh>2</vh></v>
+</v>
+<v t="leo.20170322224218.8" a="E"><vh>3</vh>
+<v t="leo.20170322224218.9"><vh>3</vh></v>
+</v>
+<v t="leo.20170322224327.1" a="E"><vh>4</vh>
+<v t="leo.20170322224327.2"><vh>4</vh></v>
+</v>
+<v t="leo.20170323003101.1" a="E"><vh>5</vh>
+<v t="leo.20170323003101.2"><vh>5</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+<v t="leo.20170322213538.1"><vh>@edit 20170316.md</vh></v>
 <v t="leo.20170309101354.1"><vh>@edit 20170309.md</vh></v>
 <v t="leo.20170306203138.1"><vh>@edit 20170302.md</vh></v>
 <v t="leo.20170304182339.1"><vh>@edit 20170223.md</vh></v>
@@ -329,6 +350,96 @@
 
 &lt;iframe src="https://player.vimeo.com/video/209558257" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/209558257"&gt;將多連趕匯入Vrep(onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170322224218.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170322224218.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322224218.3">#week four</t>
+<t tx="leo.20170322224218.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322224218.5">##單連桿-零件1
+
+&lt;iframe src="https://player.vimeo.com/video/209576732" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209576732"&gt;單連桿-零件1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170322224218.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322224218.7">##單連桿-零件2
+
+&lt;iframe src="https://player.vimeo.com/video/209575617" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209575617"&gt;單連桿-零件2&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170322224218.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322224218.9">##單連桿-零件3
+
+&lt;iframe src="https://player.vimeo.com/video/209575926" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209575926"&gt;單連桿-零件3&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170322224327.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322224327.2">##單連桿-組裝
+
+&lt;iframe src="https://player.vimeo.com/video/209575958" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209575958"&gt;單連桿-組裝&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170323003101.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323003101.2">##單連桿-匯入vrep
+
+&lt;iframe src="https://player.vimeo.com/video/209594633" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209594633"&gt;單連桿匯入vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
