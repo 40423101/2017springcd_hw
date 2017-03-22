@@ -37,10 +37,10 @@
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="yen.20170120110024.11" a="E"><vh>w1</vh>
-<v t="leo.20170308205358.1"><vh>w1</vh>
+<v t="leo.20170308205358.1" a="E"><vh>w1</vh>
 <v t="leo.20170308205358.2"><vh>w1</vh></v>
 </v>
-<v t="yen.20170120110024.12"><vh>30</vh>
+<v t="yen.20170120110024.12" a="E"><vh>30</vh>
 <v t="yen.20170120110024.13"><vh>30mmbar(onshape)</vh></v>
 </v>
 <v t="yen.20170120110024.14" a="E"><vh>50</vh>
@@ -51,6 +51,9 @@
 </v>
 <v t="leo.20170308204054.1" a="E"><vh>組合</vh>
 <v t="leo.20170308204054.2"><vh>多連桿組立(onshape)</vh></v>
+</v>
+<v t="leo.20170322204644.1" a="E"><vh>心得</vh>
+<v t="leo.20170322204644.2"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20170308204628.1" a="E"><vh>w2</vh>
@@ -69,13 +72,25 @@
 <v t="leo.20170308204940.1" a="E"><vh>位置</vh>
 <v t="leo.20170308204940.2"><vh>多連桿位置(solvespace)</vh></v>
 </v>
-<v t="leo.20170308204628.8" a="E"><vh>組合</vh>
+<v t="leo.20170308204628.8"><vh>組合</vh>
 <v t="leo.20170308204628.9"><vh>多連桿組立(solvespace)</vh></v>
+</v>
+<v t="leo.20170322204753.1" a="E"><vh>心得</vh>
+<v t="leo.20170322204753.2"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20170309101740.1" a="E"><vh>w3</vh>
-<v t="leo.20170309101740.2" a="E"><vh>w3</vh>
+<v t="leo.20170309101740.2"><vh>w3</vh>
 <v t="leo.20170309101740.3"><vh>w3</vh></v>
+</v>
+<v t="leo.20170322204833.1" a="E"><vh>將多連桿匯入Vrep(solvespace)</vh>
+<v t="leo.20170322204833.2"><vh>將多連桿匯入Vrep(solvespace)</vh></v>
+</v>
+<v t="leo.20170322204836.1" a="E"><vh>追蹤多連桿軌跡匯入Excel運算</vh>
+<v t="leo.20170322204836.2"><vh>追蹤多連桿軌跡匯入Excel運算</vh></v>
+</v>
+<v t="leo.20170322204842.1" a="E"><vh>將多連桿匯入Vrep(onshape)</vh>
+<v t="leo.20170322204842.2"><vh>將多連桿匯入Vrep(onshape)</vh></v>
 </v>
 </v>
 </v>
@@ -242,6 +257,78 @@
 						
 </t>
 <t tx="leo.20170309101740.3">#week three</t>
+<t tx="leo.20170322204644.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170322204644.2">##心得
+###這是第一次使用onshape組合零件,一開始真的很不習慣指令的方式,點跟點使用了緊密配合所以一動也不動,後來發現要用轉動配合,使用後連桿就可以移動了
+</t>
+<t tx="leo.20170322204753.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170322204753.2">##心得
+###雖然上學期就開始使用solvespace,但還是有許多功能是我還沒學過的,這次上課學到chord tolerance是調整圓的平滑度</t>
+<t tx="leo.20170322204833.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322204833.2">##將多連桿匯入Vrep(solvespace)
+
+
+&lt;iframe src="https://player.vimeo.com/video/209085340" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209085340"&gt;將多連趕匯入Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170322204836.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322204836.2">##追蹤多連桿軌跡匯入Excel運算
+
+
+&lt;iframe src="https://player.vimeo.com/video/209088548" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209088548"&gt;trace 多連桿的一點 轉入 Excel運算&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170322204842.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322204842.2">##將多連桿匯入Vrep(onshape)
+
+
+&lt;iframe src="https://player.vimeo.com/video/209558257" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209558257"&gt;將多連趕匯入Vrep(onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-08T11:00:00+08:00</updated><entry><title>第三周</title><link href="./W3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-08:./W3.html</id><summary type="html">&lt;p&gt;第三周&lt;/p&gt;
-</summary><category term="w3"></category></entry><entry><title>第二周</title><link href="./W2.html" rel="alternate"></link><published>2017-03-02T11:00:00+08:00</published><updated>2017-03-02T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-02:./W2.html</id><summary type="html">&lt;p&gt;第二周&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-09T11:00:00+08:00</updated><entry><title>第三周</title><link href="./W3.html" rel="alternate"></link><updated>2017-03-09T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-09:./W3.html</id><summary type="html">&lt;p&gt;第三周&lt;/p&gt;
+
+
+&lt;h3&gt;將多連桿匯入Vrep(solvespace)&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/209085340" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209085340"&gt;將多連趕匯入Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;追蹤多連桿軌跡匯入Excel運算&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/209088548" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209088548"&gt;trace 多連桿的一點 轉入 Excel運算&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;將多連桿匯入Vrep(onshape)&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/209558257" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209558257"&gt;將多連趕匯入Vrep(onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;翻譯Hyperworker1&lt;/h2&gt;
+&lt;h4&gt;In the 2017 release, we followed our vision and implement a lot more features, delivering more technology for your HyperWorks units investment.&lt;/h4&gt;
+&lt;h4&gt;在2017年版本中，我們遵循了我們的願景並實施了更多功能，為您的HyperWorks單位投資提供更多技術。&lt;/h4&gt;
+&lt;h4&gt;In our continuous development, we focused, as# always, on simulation-driven innovation, adding more optimization technology.&lt;/h4&gt;
+&lt;h4&gt;在我們的不斷發展中，我們一如既往地專注於模擬驅動的創新，增加更多的優化技術。&lt;/h4&gt;
+&lt;h4&gt;We added more physics simulation to the software, and we improved our parallel performance on high performance computers.&lt;/h4&gt;
+&lt;h4&gt;我們增加了許多的物理的模擬，我們提高了高性能電腦的平行性能。&lt;/h4&gt;
+&lt;h4&gt;OptiStruct, which is our implicit code, adds a lot of development in the nonlinear implicit area, but also in the optimization technology.&lt;/h4&gt;
+&lt;h4&gt;OptiStruct是我們的隱式代碼，在非線性隱含區域中，也在優化技術中添加了很多開發。&lt;/h4&gt;
+&lt;h4&gt;RADIOSS, we see a lot of development in new materials and material modeling.&lt;/h4&gt;
+&lt;h4&gt;RADIOSS，我們看到很多新材料和材料建模的發展。&lt;/h4&gt;
+&lt;h4&gt;You probably know that we did the acquisition of MDS a couple of years back, and we have now MDS integrated with RSDIOSS, and are doing application there.&lt;/h4&gt;
+&lt;h4&gt;您可能知道我們在幾年前就完成了MDS的收購，現在我們已經將MDS與RSDIOSS整合，並開始應用。&lt;/h4&gt;
+&lt;h4&gt;MotionSolve is based on a very unique formulation that this different from other multibody dynamics code, and the  formulation lends itself very well to optimization implementation.&lt;/h4&gt;
+&lt;h4&gt;MoMotionSolvetionSolve是根據一個非常獨特的公式，這不同於其他多體動力學代碼，MotionSolve公式本身非常好地優化實施。&lt;/h4&gt;
+&lt;h4&gt;So the team has worked really hard on contact formulations, got very robust.&lt;/h4&gt;
+&lt;h4&gt;因此團隊對於接觸公式非常努力，獲得了非常強大的。&lt;/h4&gt;
+&lt;h4&gt;It's very cool which kind of problems can solve with contact modelling.&lt;/h4&gt;
+&lt;h4&gt;這類型的問題可以解決與接觸建模這是非常酷的。&lt;/h4&gt;
+&lt;h4&gt;So this is along the structural solvers side on AcuSolve side we actually added the complete portfolio of turbulence and transition models that really helps us to solve problems in wind turbines and automotive industry much more accurately, and it’s a big asset of physics simulation.&lt;/h4&gt;
+&lt;h4&gt;因此，這是沿著AcuSolve一側的結構解算方面，我們實際添加了完整的湍流和轉換模型組合，真正幫助我們更準確地解決風力渦輪機和汽車行業的問題，這是物理仿真的一個重要的資產。&lt;/h4&gt;
+&lt;h4&gt;And then our electromagnetic suite has actually grown last year through the acquisition of Flux, from the CEDRAT company.&lt;/h4&gt;
+&lt;h4&gt;然後，我們的電磁套件實際上是去年通過從CEDRAT公司收購Flux而實現的。&lt;/h4&gt;
+&lt;h4&gt;As well as the acquisition of WinProp, from AWE.&lt;/h4&gt;
+&lt;h4&gt;以及從AWE收購WinProp。&lt;/h4&gt;
+&lt;h4&gt;So now we have a complete frequency spectrum from low frequency electromagnetics the high frequency electromagnetics which is powered by FEKO.&lt;/h4&gt;
+&lt;h4&gt;所以現在我們有一個完整的頻譜從低頻電磁學的高頻電磁學由FEKO供電。&lt;/h4&gt;
+&lt;h4&gt;We now have a complete portfolio of physics modeling available for our customers, and it’s all linked through optimization.&lt;/h4&gt;
+&lt;h4&gt;我們現在有一個完整的物理建模組合可用於我們的客戶，它都通過優化鏈接。&lt;/h4&gt;
+&lt;h2&gt;翻譯Hyperworker3&lt;/h2&gt;
+&lt;h4&gt;In OptiStruct, one of our focus areas is nonlinear large deformation analysis.&lt;/h4&gt;
+&lt;h4&gt;在OptiStruct中，我們的一個重點領域是非線性大變形分析。&lt;/h4&gt;
+&lt;h4&gt;And in 2017 we added nonlinear transient analysis.&lt;/h4&gt;
+&lt;h4&gt;在2017年，我們添加了非線性瞬態分析&lt;/h4&gt;
+&lt;h4&gt;The main purpose was to couple AcuSolve to do fluid-structure interaction.&lt;/h4&gt;
+&lt;h4&gt;主要目的是使AcuSolve與流體 - 結構相互作用。&lt;/h4&gt;
+&lt;h4&gt;But also one development that happened during the last year came out piece-wise in different point releases and is now really mature.&lt;/h4&gt;
+&lt;h4&gt;但是，在過去一年中發生的一個發展，在不同的積分發布中分段出現，現在已經成熟。&lt;/h4&gt;
+&lt;h4&gt;And 2017 is our contact analysis, so we have different ways of defining sliding contact and things like that.&lt;/h4&gt;
+&lt;h4&gt;2017年是我們的接觸分析，所以我們有不同的方式來定義滑動接觸和類似的東西。&lt;/h4&gt;
+&lt;h4&gt;The fast contact analysis for small deformation is blazing fast.&lt;/h4&gt;
+&lt;h4&gt;對小變形的快速接觸分析是快速的。&lt;/h4&gt;
+&lt;h4&gt;It’s a very simple idea that makes the solution very fast, and that adds OptiStruct as really a leading nonlinear structural solver.&lt;/h4&gt;
+&lt;h4&gt;這是一個非常簡單的想法，使解決方案非常快，並將OptiStruct添加為真正的領先的非線性結構求解器。&lt;/h4&gt;
+&lt;h4&gt;Our two major optimization packages are OptiStruct for structural optimization, there’s a huge multidisciplinary component, too.&lt;/h4&gt;
+&lt;h4&gt;我們的兩個主要優化包是用於結構優化的OptiStruct，還有一個巨大的多學科組件。&lt;/h4&gt;
+&lt;h4&gt;And Hyperstudy for general optimization wrap around multidisciplinary optimization.&lt;/h4&gt;
+&lt;h4&gt;並且Hyperstudy對一般優化包圍多學科優化。&lt;/h4&gt;
+&lt;h4&gt;[For] OptiStruct we spend a lot of time continuing the development for optimization and we have now Failsafe topology optimization.&lt;/h4&gt;
+&lt;h4&gt;[For] OptiStruct我們花了很多時間繼續開發優化，我們現在已經失效的拓撲優化。&lt;/h4&gt;
+&lt;h4&gt;We kept on working on the manufacturing solution to do lattice optimization.&lt;/h4&gt;
+&lt;h4&gt;我們一直在製造解決方案上做晶格優化。&lt;/h4&gt;
+&lt;h4&gt;For the multi-model optimization it’s really maturing and we find more and more applications where that helps.&lt;/h4&gt;
+&lt;h4&gt;對於多模型優化，它真的成熟，我們發現越來越多的應用程序，這有助於。&lt;/h4&gt;
+&lt;h4&gt;Our goal is actually to include all the physics in the optimizations.&lt;/h4&gt;
+&lt;h4&gt;我們的目標實際上是在優化中包括所有的物理。&lt;/h4&gt;
+&lt;h4&gt;So the team right now is working on optimization for nonlinear problems and so on.&lt;/h4&gt;
+&lt;h4&gt;所以團隊現在正在努力優化非線性問題等等。&lt;/h4&gt;
+&lt;h4&gt;And then Hyperstudy, on the other hand, is going through a new transformation of the user the user experience was changed a few years back, but we are now trying to  make it much more easy to use by hiding a lot of the advanced functionalities to the regular users.&lt;/h4&gt;
+&lt;h4&gt;另一方面，Hyperstudy正在經歷用戶體驗在幾年前改變的用戶體驗的一個新的轉變，但是我們現在試圖通過隱藏許多高級功能來使它更容易使用 普通用戶。&lt;/h4&gt;
+&lt;h4&gt;And depending on the level of expertise or depending on the job that the user has to do, they can customize the user experience.&lt;/h4&gt;
+&lt;h4&gt;並且取決於專業水平或者根據用戶必須做的工作，他們可以定制用戶體驗。&lt;/h4&gt;
+&lt;h4&gt;We adds a few new connections.&lt;/h4&gt;
+&lt;h4&gt;我們添加了一些新的連接。&lt;/h4&gt;
+&lt;h4&gt;One of them is a Flux connection.&lt;/h4&gt;
+&lt;h4&gt;其中一個是Flux連接。&lt;/h4&gt;
+&lt;h4&gt;Flux is an electromagnetics code that we just acquired for low frequency electromagnetics, so we can all take a Flux database and put it into Hyperstudy into the study with that.&lt;/h4&gt;
+&lt;h4&gt;Flux是我們剛剛為低頻電磁學採集的電磁學代碼，所以我們可以採用一個Flux數據庫，並把它放入Hyperstudy進行研究。&lt;/h4&gt;</summary><category term="w3"></category></entry><entry><title>第二周</title><link href="./W2.html" rel="alternate"></link><updated>2017-03-02T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-02:./W2.html</id><summary type="html">&lt;p&gt;第二周&lt;/p&gt;
 
 
 &lt;h2&gt;solvepace零件繪製&lt;/h2&gt;
@@ -30,10 +108,10 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/206422841"&gt;Bar(組立)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;雖然上學期就開始使用solvespace,但還是有許多功能是我還沒學過的,這次上課學到chord tolerance是調整圓的平滑度&lt;/h3&gt;</summary><category term="w2"></category></entry><entry><title>第一周</title><link href="./W1.html" rel="alternate"></link><published>2017-02-23T11:00:00+08:00</published><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-02-23:./W1.html</id><summary type="html">&lt;p&gt;第一周&lt;/p&gt;
+&lt;h3&gt;雖然上學期就開始使用solvespace,但還是有許多功能是我還沒學過的,這次上課學到chord tolerance是調整圓的平滑度&lt;/h3&gt;</summary><category term="w2"></category></entry><entry><title>第一周</title><link href="./W1.html" rel="alternate"></link><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-02-23:./W1.html</id><summary type="html">&lt;p&gt;第一周&lt;/p&gt;
 
 
-&lt;h4&gt;onshape零件繪製&lt;/h4&gt;
+&lt;h2&gt;onshape零件繪製&lt;/h2&gt;
 &lt;h3&gt;30mmbar&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207445021" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/207445021"&gt;30mmbar(onshape)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
