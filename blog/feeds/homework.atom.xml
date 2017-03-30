@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/homework.atom.xml" rel="self"></link><id>./</id><updated>2017-03-16T11:00:00+08:00</updated><entry><title>第四周</title><link href="./W4.html" rel="alternate"></link><updated>2017-03-16T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-16:./W4.html</id><summary type="html">&lt;p&gt;第四周&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/homework.atom.xml" rel="self"></link><id>./</id><updated>2017-03-16T11:00:00+08:00</updated><entry><title>第四周</title><link href="./W4.html" rel="alternate"></link><published>2017-03-16T11:00:00+08:00</published><updated>2017-03-16T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-16:./W4.html</id><summary type="html">&lt;p&gt;第四周&lt;/p&gt;
 
 
 &lt;h3&gt;單連桿-零件1&lt;/h3&gt;
@@ -25,7 +25,7 @@
 &lt;h3&gt;單連桿-匯入vrep&lt;/h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/209594633" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/209594633"&gt;單連桿匯入vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w4"></category></entry><entry><title>第三周</title><link href="./W3.html" rel="alternate"></link><updated>2017-03-09T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-09:./W3.html</id><summary type="html">&lt;p&gt;第三周&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209594633"&gt;單連桿匯入vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w4"></category></entry><entry><title>第三周</title><link href="./W3.html" rel="alternate"></link><published>2017-03-09T11:00:00+08:00</published><updated>2017-03-09T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-09:./W3.html</id><summary type="html">&lt;p&gt;第三周&lt;/p&gt;
 
 
 &lt;h3&gt;將多連桿匯入Vrep(solvespace)&lt;/h3&gt;
@@ -106,7 +106,7 @@
 &lt;h5&gt;Flux is an electromagnetics code that we just acquired for low frequency electromagnetics, so we can all take a Flux database and put it into Hyperstudy into the study with that.&lt;/h5&gt;
 &lt;h5&gt;Flux是我們剛剛為低頻電磁學採集的電磁學代碼，所以我們可以採用一個Flux數據庫，並把它放入Hyperstudy進行研究。&lt;/h5&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;h4&gt;這次要翻譯字幕查了很多單字，也學到了很多字，讓自己更有耐心看英文&lt;/h4&gt;</summary><category term="w3"></category></entry><entry><title>第二周</title><link href="./W2.html" rel="alternate"></link><updated>2017-03-02T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-02:./W2.html</id><summary type="html">&lt;p&gt;第二周&lt;/p&gt;
+&lt;h4&gt;這次要翻譯字幕查了很多單字，也學到了很多字，讓自己更有耐心看英文&lt;/h4&gt;</summary><category term="w3"></category></entry><entry><title>第二周</title><link href="./W2.html" rel="alternate"></link><published>2017-03-02T11:00:00+08:00</published><updated>2017-03-02T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-03-02:./W2.html</id><summary type="html">&lt;p&gt;第二周&lt;/p&gt;
 
 
 &lt;h2&gt;solvepace零件繪製&lt;/h2&gt;
@@ -136,7 +136,7 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/206422841"&gt;Bar(組立)&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;h3&gt;雖然上學期就開始使用solvespace,但還是有許多功能是我還沒學過的,這次上課學到chord tolerance是調整圓的平滑度&lt;/h3&gt;</summary><category term="w2"></category></entry><entry><title>第一周</title><link href="./W1.html" rel="alternate"></link><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-02-23:./W1.html</id><summary type="html">&lt;p&gt;第一周&lt;/p&gt;
+&lt;h3&gt;雖然上學期就開始使用solvespace,但還是有許多功能是我還沒學過的,這次上課學到chord tolerance是調整圓的平滑度&lt;/h3&gt;</summary><category term="w2"></category></entry><entry><title>第一周</title><link href="./W1.html" rel="alternate"></link><published>2017-02-23T11:00:00+08:00</published><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-02-23:./W1.html</id><summary type="html">&lt;p&gt;第一周&lt;/p&gt;
 
 
 &lt;h2&gt;onshape零件繪製&lt;/h2&gt;
