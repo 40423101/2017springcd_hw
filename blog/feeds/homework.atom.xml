@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/homework.atom.xml" rel="self"></link><id>./</id><updated>2017-06-01T11:00:00+08:00</updated><entry><title>協同產品設計實習第十五週練習</title><link href="./w15.html" rel="alternate"></link><published>2017-06-01T11:00:00+08:00</published><updated>2017-06-01T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-06-01:./w15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/homework.atom.xml" rel="self"></link><id>./</id><updated>2017-06-22T11:00:00+08:00</updated><entry><title>期末協同查驗與自評</title><link href="./w18.html" rel="alternate"></link><published>2017-06-22T11:00:00+08:00</published><updated>2017-06-22T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-06-22:./w18.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;組員說明在分組行走機構模擬與實作過程中所負責的任務&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222364098" width="640" height="330" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222364098"&gt;虎尾科技大學-機械設計系-40423101-第二組-四足機構-本體&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w18"></category></entry><entry><title>第十七周</title><link href="./w17.html" rel="alternate"></link><published>2017-06-15T11:00:00+08:00</published><updated>2017-06-15T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-06-15:./w17.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;雙足機構&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/223481642" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/223481642"&gt;虎尾科技大學-機械設計系-40423101-雙足機構-足&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/223556044" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/223556044"&gt;虎尾科技大學-機械設計系-40423101-雙足機構-桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/223556110" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/223556110"&gt;虎尾科技大學-機械設計系-40423101-雙足機構-鍵&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207266"&gt;曾宜萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w17"></category></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./w15.html" rel="alternate"></link><published>2017-06-01T11:00:00+08:00</published><updated>2017-06-01T11:00:00+08:00</updated><author><name>40423101</name></author><id>tag:,2017-06-01:./w15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
