@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Archives - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <title>第十周 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,15 +10,21 @@
 
 
 
+<link rel="canonical" href="./w10.html">
 
-        <meta name="author" content="KMOL" />
+        <meta name="author" content="40423101" />
+        <meta name="keywords" content="w10" />
+        <meta name="description" content="加減乘除程式練習" />
 
-    <!-- Open Graph tags -->
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
-        <meta property="og:url" content="."/>
-        <meta property="og:description" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="第十周"/>
+        <meta property="og:url" content="./w10.html"/>
+        <meta property="og:description" content="加減乘除程式練習"/>
+        <meta property="article:published_time" content="2017-04-27" />
+            <meta property="article:section" content="homework" />
+            <meta property="article:tag" content="w10" />
+            <meta property="article:author" content="40423101" />
 
 
     <!-- Bootstrap -->
@@ -99,7 +105,7 @@
                          <li><a href="./pages/about/">
                              About
                           </a></li>
-                        <li >
+                        <li class="active">
                             <a href="./category/homework.html">Homework</a>
                         </li>
             </ul>
@@ -122,50 +128,299 @@
         <div class="col-sm-9">
 
     <section id="content">
-        <h1>Archives for 2017Spring 協同產品設計實習 (虎尾科大MDE)</h1>
-        <div id="archives">
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-06-01T11:00:00+08:00">Thu 01 June 2017</time></span>
-                    <a href="./w15.html">協同產品設計實習第十五週練習</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-05-11T11:00:00+08:00">Thu 11 May 2017</time></span>
-                    <a href="./w12.html">w12</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-04-27T11:00:00+08:00">Thu 27 April 2017</time></span>
-                    <a href="./w10.html">第十周</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-04-20T11:00:00+08:00">Thu 20 April 2017</time></span>
-                    <a href="./期中報告.html">期中報告</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-03-30T11:00:00+08:00">Thu 30 March 2017</time></span>
-                    <a href="./W6.html">第六周</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-03-23T11:00:00+08:00">Thu 23 March 2017</time></span>
-                    <a href="./W5.html">第五周</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-03-16T11:00:00+08:00">Thu 16 March 2017</time></span>
-                    <a href="./W4.html">第四周</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-03-09T11:00:00+08:00">Thu 09 March 2017</time></span>
-                    <a href="./W3.html">第三周</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-03-02T11:00:00+08:00">Thu 02 March 2017</time></span>
-                    <a href="./W2.html">第二周</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-02-23T11:00:00+08:00">Thu 23 February 2017</time></span>
-                    <a href="./W1.html">第一周</a>
-                </p>
-        </div>
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./w10.html"
+                       rel="bookmark"
+                       title="Permalink to 第十周">
+                        第十周
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-04-27T11:00:00+08:00"> Thu 27 April 2017</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40423101.html"><i class="fa fa-user"></i> 40423101</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/w10.html">w10</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <h4>加減乘除程式練習</h4>
+
+
+<pre class="brush: python">
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+<!--<canvas id="w10" width="800" height="600"></canvas>-->
+
+<div id="container" width="600" height="400"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+container = doc['container']
+degree = math.pi/180
+def button1(event):
+    a = input("give me a")
+    container <= str(math.cos(60*degree)+float(a))
+doc["button1"].bind("click", button1)
+</script>
+<button id="button1">按下取 a 值</button>
+</pre>
+
+<h2>加運算</h2>
+<h4>程式碼</h4>
+<p><p>檔名add.py.py</p>
+<pre>
+def add (a,b):
+      return a+b
+</pre>
+<p>檔名app.py</p>
+<pre>
+import sys
+sys.path.append("./add")
+import add</p>
+<p>sum = add.add (20,30)</p>
+<p>print(sum)
+</pre></p>
+<p>加法影片</p>
+<iframe src="https://player.vimeo.com/video/223545117" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/223545117">虎尾科技大學-機械設計系-40423101-加減乘除-加</a> from <a href="https://vimeo.com/user44207266">曾宜萱</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p>按鈕測試</p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+
+<!--<canvas id="w10" width="800" height="600"></canvas>-->
+
+<div id="container" width="600" height="400"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+container = doc['container']
+degree = math.pi/180
+def button1(event):
+    a = input("give me a")
+    b = input("give me b")
+    container <= str(float(a)+float(b))
+doc["button1"].bind("click", button1)
+
+</script>
+
+<p><button id="button1">按下取 a b 值</button></p>
+<h2>減運算</h2>
+<h4>程式碼</h4>
+<p><p>檔名minus.py</p>
+<pre>
+def minus (a,b):
+      return a-b
+</pre>
+<p>檔名app.py</p>
+<pre>
+import sys
+sys.path.append("./minus")
+import minus</p>
+<p>sum = minus.minus (20,30)</p>
+<p>print(sum)
+</pre></p>
+<p>減法影片
+<iframe src="https://player.vimeo.com/video/223545471" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/223545471">虎尾科技大學-機械設計系-40423101-加減乘除-減</a> from <a href="https://vimeo.com/user44207266">曾宜萱</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+<p>按鈕測試</p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+
+<!--<canvas id="w10" width="800" height="600"></canvas>-->
+
+<div id="container1" width="600" height="400"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+container = doc['container1']
+degree = math.pi/180
+def button2(event):
+    a = input("give me a")
+    b = input("give me b")
+    container <= str(float(a)-float(b))
+doc["button2"].bind("click", button2)
+
+</script>
+
+<p><button id="button2">按下取 a b 值</button></p>
+<h2>乘運算</h2>
+<h4>程式碼</h4>
+<p><p>檔名tines.py</p>
+<pre>
+def tines (a,b):
+      return a*b
+</pre>
+<p>檔名app.py</p>
+<pre>
+import sys
+sys.path.append("./tines")
+import tines</p>
+<p>sum = tines.tines (20,30)</p>
+<p>print(sum)
+</pre></p>
+<p>乘法影片
+<iframe src="https://player.vimeo.com/video/223545316" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/223545316">虎尾科技大學-機械設計系-40423101-加減乘除-乘</a> from <a href="https://vimeo.com/user44207266">曾宜萱</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+<p>按鈕測試</p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+
+<!--<canvas id="w10" width="800" height="600"></canvas>-->
+
+<div id="container3" width="600" height="400"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+container = doc['container3']
+degree = math.pi/180
+def button3(event):
+    a = input("give me a")
+    b = input("give me b")
+    container <= str(float(a)*float(b))
+doc["button3"].bind("click", button3)
+
+</script>
+
+<p><button id="button3">按下取 a b 值</button></p>
+<h3>除運算</h3>
+<h4>程式碼</h4>
+<p><p>檔名divided.py</p>
+<pre>
+def divided (a,b):
+      return a/b
+</pre>
+<p>檔名app.py</p>
+<pre>
+import sys
+sys.path.append("./divided")
+import divided</p>
+<p>sum = divided.divided (20,30)</p>
+<p>print(sum)
+</pre></p>
+<p>除法影片</p>
+<iframe src="https://player.vimeo.com/video/223545540" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/223545540">虎尾科技大學-機械設計系-40423101-加減乘除-除</a> from <a href="https://vimeo.com/user44207266">曾宜萱</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p>按鈕測試</p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+
+<!--<canvas id="w10" width="800" height="600"></canvas>-->
+
+<div id="container4" width="600" height="400"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+container = doc['container4']
+degree = math.pi/180
+def button4(event):
+    a = input("give me a")
+    b = input("give me b")
+    container <= str(float(a)/float(b))
+doc["button4"].bind("click", button4)
+
+</script>
+
+<p><button id="button4">按下取 a b 值</button></p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
     </section>
+
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
